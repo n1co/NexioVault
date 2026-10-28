@@ -1,0 +1,14 @@
+---
+mindmap-layout: right
+---
+# Infra
+
+- 10.0.0.1
+- 10.0.0.2
+- 10.0.0.3
+  - 22 - SSH
+    - Old version: 1.0.4
+    - Leaked key in /opt
+  - 80 - HTTP <!-- color: #f08c00 -->
+    - RCE <!-- color: #e03131 -->
+    - SQLi on search.php

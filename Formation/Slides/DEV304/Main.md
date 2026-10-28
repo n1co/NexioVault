@@ -59,4 +59,12 @@ flowchart TB
     style B3 fill:#cbd3c1,stroke:#ffffff,color:#000000
     style C fill:#e07a45,stroke:#d0652f,color:#ffffff
     ```
+---
+![[Untitled.mindmap]]
+
+truc
+
+![[SecureVault/Untitled.excalidraw]]
+
+[[AWSSec1]](truc)
 
