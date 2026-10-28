@@ -1,0 +1,3 @@
+.nexio/history/
+*.nexio-tmp
+.DS_Store
