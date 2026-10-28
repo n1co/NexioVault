@@ -1,3 +1,5 @@
+# Internet pour les nuls
+---
 ![[Pasted image 20261027113928.png]]
 
 test
