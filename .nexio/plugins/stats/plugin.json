@@ -1,0 +1,7 @@
+{
+	"id": "stats",
+	"name": "Statistiques",
+	"version": "0.1.0",
+	"description": "Statistiques du coffre, date du jour, et bloc ```stats (notes les plus longues).",
+	"author": "Nexio"
+}
