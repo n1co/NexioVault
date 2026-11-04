@@ -53,4 +53,13 @@ Les trucs !
 * non 
 * peut être
 
+---
+
+```c
+#include <stdin>
+
+int main() {
+	printf("Hello, world");
+}
+```
 
